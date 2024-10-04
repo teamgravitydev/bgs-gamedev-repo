@@ -7,11 +7,11 @@ Explore our oficial site: [Blue Gravity Studios](https://gravity.blue/)
 # Table of Content
 
 📖 [General](https://github.com/bluegravitystudios/indie-game-assets/blob/main/README.md#-general)  
-🎨 Assets  
-🎲 3D Assets  
-🧩 Design  
-💻 Code  
-🔊 Audio  
+🎨 [Assets](https://github.com/bluegravitystudios/indie-game-assets/blob/main/README.md#-2d-assets)  
+🎲 [3D Assets](https://github.com/bluegravitystudios/indie-game-assets/blob/main/README.md#-3d-assets)  
+🧩 [Design](https://github.com/bluegravitystudios/indie-game-assets/blob/main/README.md#-design)  
+💻 [Code](https://github.com/bluegravitystudios/indie-game-assets/blob/main/README.md#-code)  
+🔊 [Audio](https://github.com/bluegravitystudios/indie-game-assets/blob/main/README.md#-audio)  
 
 
 ##  📖 General
