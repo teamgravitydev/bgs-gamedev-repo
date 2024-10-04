@@ -1,6 +1,7 @@
 # Blue Gravity Sudios
 
-Blue Gravity Studios is a game development studio based in London founded by avid gamers. Our passion for innovative game design drives us to create high-quality, industry-leading titles. You can check our website at: [Blue Gravity Website](https://gravity.blue/)
+Blue Gravity Studios is a game development studio based in London founded by avid gamers. Our passion for innovative game design drives us to create high-quality, industry-leading titles.  
+You can check our website at: [Blue Gravity Website](https://gravity.blue/)
 
 # Game Development Assets
 
