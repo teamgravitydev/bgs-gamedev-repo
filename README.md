@@ -6,7 +6,7 @@ Explore our oficial site: [Blue Gravity Studios](https://gravity.blue/)
 
 # Table of Content
 
-📖 General  
+📖 [General](https://github.com/bluegravitystudios/indie-game-assets/blob/main/README.md#-general)  
 🎨 Assets  
 🎲 3D Assets  
 🧩 Design  
