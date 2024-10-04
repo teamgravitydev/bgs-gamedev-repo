@@ -6,12 +6,12 @@ Explore our oficial site: [Blue Gravity Studios](https://gravity.blue/)
 
 # Table of Content
 
-📖 General
-🎨 Assets
-🎲 3D Assets
-🧩 Design
-💻 Code
-🔊 Audio
+📖 General  
+🎨 Assets  
+🎲 3D Assets  
+🧩 Design  
+💻 Code  
+🔊 Audio  
 
 
 ##  📖 General
