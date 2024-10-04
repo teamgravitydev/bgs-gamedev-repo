@@ -2,7 +2,7 @@
 Blue Gravity Studios believes in the power of indie game developers and want to support the amazing creativity in the indie game community. This repository contains a collection of free resources developed by Blue Gravity Studios to assist indie developers in creating high-quality games. Here, you will find 2D and 3D assets, code snippets, design templates, and audio resources.
 
 Blue Gravity Studios is a game development studio based in London founded by avid gamers. Our passion for innovative game design drives us to create high-quality, industry-leading titles.  
-You can check our website at: [Blue Gravity Website](https://gravity.blue/)
+Explore our Oficial Site: [Blue Gravity Studios](https://gravity.blue/)
 
 # Table of Content
 
