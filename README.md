@@ -18,13 +18,31 @@ Blue Gravity Studios believes in the power of indie game developers and want to 
 
 
 ## 1. General 📖
+Explore a collection of essential resources for game development, including guides, tutorials, and tips to help indie developers level up their skills and create innovative games.
+- PlaceHolder1
+- PlaceHolder2
 
 ## 2. 2D Assets 🎨
-
+Download free 2D game assets, including sprites, textures, and animations, to bring your indie game projects to life with vibrant visuals and smooth motion.
+- PlaceHolder1
+- PlaceHolder2
+  
 ## 3. 3D Assets 🎲
-
+Access high-quality 3D models, textures, and environments perfect for creating stunning indie games in Unity, Unreal, or other game engines.
+- PlaceHolder1
+- PlaceHolder2
+  
 ## 4. Design 🧩
-
+Find design templates, wireframes, and game mechanics blueprints to streamline your game development process and create engaging, well-structured games.
+- PlaceHolder1
+- PlaceHolder2
+  
 ## 5. Code 💻
-
+Browse code snippets, scripts, and full modules to help streamline game logic, AI, and mechanics in your indie game projects, compatible with Unity, Unreal, and other platforms.
+- PlaceHolder1
+- PlaceHolder2
+  
 ## 6. Audio 🔊
+Enhance your game's atmosphere with free sound effects, music tracks, and audio loops designed specifically for indie game developers looking to elevate their sound design.
+- PlaceHolder1
+- PlaceHolder2
