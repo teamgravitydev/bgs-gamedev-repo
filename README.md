@@ -17,13 +17,20 @@ Visit our official website to learn more about our projects and contributions to
 
 ##  📖 General
 Explore a collection of essential resources for game development, including guides, tutorials, and tips to help indie developers level up their skills and create innovative games.
+[10001Fonts](https://www.1001fonts.com/) - Download free fonts.
+[Dafont](https://www.dafont.com/pt/) - Download free fonts.
+[Font Squirel] - Dowload free fonts.
 
 ## 🎨 2D Assets
 Download free 2D game assets, including sprites, textures, and animations, to bring your indie game projects to life with vibrant visuals and smooth motion.
-  
+ [Kenney](https://kenney.nl/assets) - Download Free 2D Assets.
+ [OpenGameArt](https://opengameart.org/) - Download Free 2D Assets.
+ 
 ## 🎲 3D Assets 
 Access high-quality 3D models, textures, and environments perfect for creating stunning indie games in Unity, Unreal, or other game engines.
-  
+ [Kenney](https://kenney.nl/assets) - Download Free 3D Assets.
+[OpenGameArt](https://opengameart.org/) - Download Free 3D Assets.
+ 
 ## 🧩 Design
 Find design templates, wireframes, and game mechanics blueprints to streamline your game development process and create engaging, well-structured games.
   
@@ -32,3 +39,5 @@ Browse code snippets, scripts, and full modules to help streamline game logic, A
   
 ##  🔊 Audio
 Enhance your game's atmosphere with free sound effects, music tracks, and audio loops designed specifically for indie game developers looking to elevate their sound design.
+[FreeSound](https://freesound.org/) - Download free sounds.
+[OpenGameArt](https://opengameart.org/) - Download free sounds.
