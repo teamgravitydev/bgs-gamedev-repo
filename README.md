@@ -22,7 +22,7 @@ Explore a collection of essential resources for game development, including guid
 ## 🎨 2D Assets
 Download free 2D game assets, including sprites, textures, and animations, to bring your indie game projects to life with vibrant visuals and smooth motion.  
 
-**2D Assets**  
+**2D Models**  
  [Kenney](https://kenney.nl/assets) - Free game art and assets.  
  [OpenGameArt](https://opengameart.org/) - Free community-driven game art.    
  [DevAssets](https://devassets.com/) - High-quality game assets for sale.  
