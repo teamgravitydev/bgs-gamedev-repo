@@ -25,16 +25,23 @@ Download free 2D game assets, including sprites, textures, and animations, to br
  [OpenGameArt](https://opengameart.org/) - Download Free 2D Assets.  
  [DevAssets](https://devassets.com/) - Download Free 2D Assets.  
  [Itch.io](https://itch.io/game-assets) - Download Free 2D Assets.  
+ [Unity Asset Store](https://assetstore.unity.com/) - Download Free 2D Assets.  
+ [GameArt2D](https://www.gameart2d.com/freebies.html) - Download Free 2D Assets.  
+ [GameArtGuppy](https://www.gameartguppy.com/) - Download Free 2D Assets.  
+ [CraftPix.Net](https://craftpix.net/) - Download Free 2D Assets.  
  
 ## 🎲 3D Assets 
 Access high-quality 3D models, textures, and environments perfect for creating stunning indie games in Unity, Unreal, or other game engines.  
- [Kenney](https://kenney.nl/assets) - Download Free 3D Assets.  
+[Kenney](https://kenney.nl/assets) - Download Free 3D Assets.  
 [OpenGameArt](https://opengameart.org/) - Download Free 3D Assets.  
-[DevAssets](https://devassets.com/) - Download Free 3D Assets.  
+[DevAssets](https://devassets.com/) - Download Free 3D Assets.    
 [Itch.io](https://itch.io/game-assets) - Download Free 3D Assets.  
+[CraftPix.Net](https://craftpix.net/) - Download Free 3D Assets.  
+[Unity Asset Store](https://assetstore.unity.com/) - Download Free 3D Assets and Animations.  
 [Free3d](https://free3d.com/) - Download Free 3D Assets and Animations.  
 [Mixamo](https://www.mixamo.com/#/) - Dowload 3D Animations.  
 [Poliigon](https://www.poliigon.com/) - Download Free Textures.  
+
  
 ## 🧩 Design
 Find design templates, wireframes, and game mechanics blueprints to streamline your game development process and create engaging, well-structured games.
@@ -51,4 +58,5 @@ Browse code snippets, scripts, and full modules to help streamline game logic, A
 ##  🔊 Audio
 Enhance your game's atmosphere with free sound effects, music tracks, and audio loops designed specifically for indie game developers looking to elevate their sound design.  
 [FreeSound](https://freesound.org/) - Download free sounds.  
-[OpenGameArt](https://opengameart.org/) - Download free sounds.  
+[OpenGameArt](https://opengameart.org/) - Download free sounds. 
+[Unity Asset Store](https://assetstore.unity.com/) - Download Free sounds.  
