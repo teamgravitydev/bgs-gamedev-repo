@@ -19,7 +19,7 @@ Visit our official website to learn more about our projects and contributions to
 Explore a collection of essential resources for game development, including guides, tutorials, and tips to help indie developers level up their skills and create innovative games.  
 [10001Fonts](https://www.1001fonts.com/) - Download free fonts.  
 [Dafont](https://www.dafont.com/pt/) - Download free fonts.  
-[Font Squirel] - Dowload free fonts.  
+[Font Squirel](https://www.fontsquirrel.com/) - Dowload free fonts.  
 
 ## 🎨 2D Assets
 Download free 2D game assets, including sprites, textures, and animations, to bring your indie game projects to life with vibrant visuals and smooth motion.  
