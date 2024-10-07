@@ -22,7 +22,7 @@ Explore a collection of essential resources for game development, including guid
 ## 🎨 2D Assets
 Download free 2D game assets, including sprites, textures, and animations, to bring your indie game projects to life with vibrant visuals and smooth motion.  
 
-**Download 2D Assets**  
+**2D Assets**  
  [Kenney](https://kenney.nl/assets) - Free game art and assets.  
  [OpenGameArt](https://opengameart.org/) - Free community-driven game art.    
  [DevAssets](https://devassets.com/) - High-quality game assets for sale.  
@@ -34,12 +34,12 @@ Download free 2D game assets, including sprites, textures, and animations, to br
  [UnluckyStudio](https://unluckystudio.com/category/freegameart/) - Free game art for 2D games.  
  [Widgetworx](https://www.widgetworx.com/projects/sl.html) - Free graphic objects for game development.  
 
- **Download Backgrounds**  
+ **Backgrounds**  
  [UnluckyStudio](https://unluckystudio.com/category/freegameart/) - Free game art for 2D games, including characters, backgrounds, and weapons.  
  [Trianglify.io](https://trianglify.io/) - Low poly pattern generator to create unique backgrounds.  
  [HeroPatterns](https://heropatterns.com/) - Free, repeatable SVG background patterns for web projects.  
 
- **Download Icons**  
+ **Icons**  
  [GameIcons.Net](https://game-icons.net/) - Offers free and paid game icons.  
  [GoogleFonts](https://fonts.google.com/icons) - Provides access to free, open-source icons alongside Google Fonts.  
  [SVGrepo](https://www.svgrepo.com/)- Provides a collection of free SVG icons for web projects.  
@@ -58,7 +58,7 @@ Download free 2D game assets, including sprites, textures, and animations, to br
 ## 🎲 3D Assets 
 Access high-quality 3D models, textures, and environments perfect for creating stunning indie games in Unity, Unreal, or other game engines.  
 
-**Download 3D Models**  
+**3D Models**  
 [Kenney](https://kenney.nl/assets) -  Free 2D and 3D game assets.  
 [OpenGameArt](https://opengameart.org/) - Free community-driven game art, including 3D models.  
 [DevAssets](https://devassets.com/) -   High-quality game assets.  
@@ -73,12 +73,12 @@ Access high-quality 3D models, textures, and environments perfect for creating s
 [CGTrader](https://www.cgtrader.com/3d-models/animals?free=1) - Free 3D models.  
 [BlenderNation](https://www.blendernation.com/category/art/free-blender-models/) - Website offers tutorials and resources for using Blender.  
 
-**Download 3D Animations**  
+**3D Animations**  
 [Unity Asset Store](https://assetstore.unity.com/) - Official marketplace for Unity game assets.  
 [Free3d](https://free3d.com/) - Collection of free 3D models for various uses, including game development.  
 [Mixamo](https://www.mixamo.com/#/) - Provides free and paid 3D character animations that work with various game engines.
 
-**Download Textures**  
+**Textures**  
 [Poliigon](https://www.poliigon.com/) - Specializes in creating high-quality, low-poly 3D textures.  
 [Unity Asset Store](https://assetstore.unity.com/) - Official marketplace for Unity game assets.  
 [Textures.com](https://www.textures.com/) - Large marketplace for various textures, both free and paid.  
@@ -103,7 +103,7 @@ Browse code snippets, scripts, and full modules to help streamline game logic, A
 ## 📃 Writing
 Find everything you need to build rich, interactive game narratives. Browse through dialogue scripts, story outlines, and fonts to give your indie game a strong, narrative-driven foundation.  
 
-**Download Fonts**  
+**Fonts**  
 [10001Fonts](https://www.1001fonts.com/) - Offers a large collection of free downloadable fonts for various uses.  
 [Dafont](https://www.dafont.com/pt/) - Provides a library of free fonts with a focus on artistic and decorative styles.  
 [Font Squirel](https://www.fontsquirrel.com/) - Curates and offers free, high-quality fonts with clear licensing information for commercial use.  
@@ -111,7 +111,7 @@ Find everything you need to build rich, interactive game narratives. Browse thro
 ##  🔊 Audio
 Enhance your game's atmosphere with free sound effects, music tracks, and audio loops designed specifically for indie game developers looking to elevate their sound design.  
 
-**Download Sounds**  
+**Sounds**  
 [FreeSound](https://freesound.org/) - Large community-driven library of free sound effects and music for various uses.  
 [OpenGameArt](https://opengameart.org/) - Free game art resource, also includes sound effects.  
 [Unity Asset Store](https://assetstore.unity.com/) - Official marketplace for Unity game assets.  
@@ -121,7 +121,7 @@ Enhance your game's atmosphere with free sound effects, music tracks, and audio 
 [GameSounds](https://gamesounds.xyz/#google_vignette) - Collection of free sound effects specifically designed for game development.  
 [SoundBible](https://soundbible.com/#google_vignette) - Provides a large library of free sound effects with clear licensing information.  
 
-**Download Music**  
+**Musics**  
 [FreeMusicArchive](https://freemusicarchive.org/) - Large collection of free, licensed music for various creative projects.  
 [Incompetech](https://incompetech.com/music/) - Kevin MacLeod's website offering a vast library of free, royalty-free music for creators.  
 [Bensound](https://www.bensound.com/) - Website by Bensound providing royalty-free music with a focus on clean and modern sounds.  
