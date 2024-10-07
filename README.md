@@ -43,7 +43,7 @@ Find design templates, wireframes, and game mechanics blueprints to streamline y
 Browse code snippets, scripts, and full modules to help streamline game logic, AI, and mechanics in your indie game projects, compatible with Unity, Unreal, and other platforms.
 
 ## 📃 Writing
-Browse code snippets, scripts, and full modules to help streamline game logic, AI, and mechanics in your indie game projects, compatible with Unity, Unreal, and other platforms.
+Browse code snippets, scripts, and full modules to help streamline game logic, AI, and mechanics in your indie game projects, compatible with Unity, Unreal, and other platforms.  
 [10001Fonts](https://www.1001fonts.com/) - Download free fonts.  
 [Dafont](https://www.dafont.com/pt/) - Download free fonts.  
 [Font Squirel](https://www.fontsquirrel.com/) - Dowload free fonts. 
