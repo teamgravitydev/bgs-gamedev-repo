@@ -32,14 +32,20 @@ Download free 2D game assets, including sprites, textures, and animations, to br
  
 ## 🎲 3D Assets 
 Access high-quality 3D models, textures, and environments perfect for creating stunning indie games in Unity, Unreal, or other game engines.  
-[Kenney](https://kenney.nl/assets) - Download Free 3D Assets.  
-[OpenGameArt](https://opengameart.org/) - Download Free 3D Assets.  
-[DevAssets](https://devassets.com/) - Download Free 3D Assets.    
-[Itch.io](https://itch.io/game-assets) - Download Free 3D Assets.  
-[CraftPix.Net](https://craftpix.net/) - Download Free 3D Assets.  
+
+*3D Models*
+[Kenney](https://kenney.nl/assets) - 
+[OpenGameArt](https://opengameart.org/) -  
+[DevAssets](https://devassets.com/) - 
+[Itch.io](https://itch.io/game-assets) - 
+[CraftPix.Net](https://craftpix.net/) - 
+
+*3D Animation*
 [Unity Asset Store](https://assetstore.unity.com/) - Download Free 3D Assets and Animations.  
 [Free3d](https://free3d.com/) - Download Free 3D Assets and Animations.  
-[Mixamo](https://www.mixamo.com/#/) - Dowload 3D Animations.  
+[Mixamo](https://www.mixamo.com/#/) - Download 3D Animations.  
+
+*Textures*
 [Poliigon](https://www.poliigon.com/) - Download Free Textures.  
 
  
