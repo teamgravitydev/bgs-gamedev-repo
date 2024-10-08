@@ -16,7 +16,13 @@ Visit our official website to learn more about our projects and contributions to
 
 
 ##  📖 Production  
- 
+ **◾ Project Management**  
+ [Asana](https://asana.com/?noredirect) - 
+ [Casual](https://casual.pm/) - 
+ [ClickUp](https://clickup.com/) - 
+ [Hackcplan](https://hacknplan.com/) - 
+ [Taiga](https://taiga.io/) - 
+ [Trello](https://trello.com/) -
 
 ## 🎨 2D Assets  
 
@@ -51,17 +57,20 @@ Visit our official website to learn more about our projects and contributions to
 
  **◾ Systems**  
  [Aseprite](https://www.aseprite.org/) - A dedicated program for creating pixel art and animations.  
- [Piskell](https://www.piskelapp.com/) - A free, web-based tool for creating pixel art and basic animations.  
+ [Piskel](https://www.piskelapp.com/) - A free, web-based tool for creating pixel art and basic animations.  
  [MapEditor](https://www.mapeditor.org/) - Online map editor for creating tile-based maps.  
  [TexturePacker](https://www.codeandweb.com/texturepacker) -  Software for creating sprite sheets.  
  [TileSetter](https://www.tilesetter.org/) - Tool for creating tilesets and maps for games.  
  [Pixen](https://pixenapp.com/) -  
  [SpriteStack](https://spritestack.io/) -  
  [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - 
+ [PixaPics](https://pixa.pics/) - 
+ [Pixieengine](https://pixieengine.com/) - 
+ [Pixel Art Converter](https://www.pixelicious.xyz/) - 
  
 ## 🎲 3D Assets   
 
-**3D Models**  
+**◾ 3D Models**  
 [Kenney](https://kenney.nl/assets) -  Free 2D and 3D game assets.  
 [OpenGameArt](https://opengameart.org/) - Free community-driven game art, including 3D models.  
 [DevAssets](https://devassets.com/) -   High-quality game assets.  
@@ -78,12 +87,12 @@ Visit our official website to learn more about our projects and contributions to
 [Blender 3D Models](https://www.blender-models.com/) -
 [PoliPizza](https://poly.pizza/) - 
 
-**3D Animations**  
+**◾ 3D Animations**  
 [Unity Asset Store](https://assetstore.unity.com/) - Official marketplace for Unity game assets.  
 [Free3d](https://free3d.com/) - Collection of free 3D models for various uses, including game development.  
 [Mixamo](https://www.mixamo.com/#/) - Provides free and paid 3D character animations that work with various game engines.
 
-**Textures**  
+**◾ Textures**  
 [Poliigon](https://www.poliigon.com/) - Specializes in creating high-quality, low-poly 3D textures.  
 [Unity Asset Store](https://assetstore.unity.com/) - Official marketplace for Unity game assets.  
 [Textures.com](https://www.textures.com/) - Large marketplace for various textures, both free and paid.  
@@ -93,24 +102,34 @@ Visit our official website to learn more about our projects and contributions to
 [LotPixel](https://www.lotpixel.com/) - 
 [PlainTexture](https://www.plaintextures.com/) - 
 
-**Systems**  
+**◾ Systems**  
 [BoundingBoxSoftware](https://boundingboxsoftware.com/materialize/) - A tool that lets you create game materials directly from images.  
 [TinkerCard](https://www.tinkercad.com/things) - Web-based platform for creating simple 3D models, often used for educational purposes.  
 [TextureGenerator](https://cpetry.github.io/TextureGenerator-Online/) - Free online tool for creating basic textures.  
 [TexturePacker](https://www.codeandweb.com/texturepacker) - Software program for creating sprite sheets from individual images.  
+[Blender](https://www.blender.org/) - 
+[Clara.io](https://clara.io/) -
  
 ## 🧩 Game Design  
 
-**Mechanics**
+**◾ Mechanics**
 [Board Geek Game](https://boardgamegeek.com/browse/boardgamemechanic) - 
+[Designer Notes](https://www.designer-notes.com/) - 
+[Game Developer](https://www.gamedeveloper.com/design) - 
+[Lost Garden](https://lostgarden.com/) - 
+[2D Game Development: From Zero to Hero](https://gitlab.com/Penaz/2dgd_f0th) - 
+[GDC Youtube Channel](https://www.youtube.com/@Gdconf) - 
+[GDC Vault](https://gdcvault.com/) - 
 
 
-**Systems**  
+**◾ Systems**  
 [YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - A tool used to build interactive dialogue in games.  
+[Dundoc](https://www.dundoc.com/) - 
+[Twine](https://twinery.org/) - 
   
 ## 💻 Code  
 
-**Code**
+**◾ Code**
 [Kontra](https://straker.github.io/kontra/) -  
 [CodeOpen](https://codepen.io/) -  
 [Chess Programing Wiki](https://www.chessprogramming.org/Main_Page) -
@@ -128,7 +147,7 @@ Visit our official website to learn more about our projects and contributions to
 
 
 
-**Tutorial**
+**◾ Tutorial**
 [TypeScript GameDev Tutorial](https://www.youtube.com/watch?v=7bejSTim38A) -
 [Simple Game Tutorial](https://berbasoft.com/simplegametutorials/) -
 [Python Multiplayer Game](https://www.youtube.com/watch?v=McoDjOCb2Zo) - 
@@ -150,7 +169,7 @@ Visit our official website to learn more about our projects and contributions to
 [Race Beginner in Unity](https://learn.unity.com/project/2d-platformer-template?courseId=5c59cf22edbc2a001f59aa5d) - 
 [Tetris in C++](https://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/) - 
 
-**Systems**
+**◾ Systems**
 [Godot](https://godotengine.org/) -  
 [AFrame](https://aframe.io/docs/0.6.0/introduction/) -  
 [JavaScript Performance Monitor](https://github.com/mrdoob/stats.js) -
@@ -189,22 +208,25 @@ Visit our official website to learn more about our projects and contributions to
 [SuperPowers](https://sparklinlabs.itch.io/superpowers) - 
 [Stride](https://www.stride3d.net/) - 
 [PlayCanvas](https://github.com/playcanvas/engine) - 
+[Unity Documentation](https://docs.unity3d.com/) - 
+[Microsoft Visual Studios](https://code.visualstudio.com/) - 
+[Notepad++](https://notepad-plus-plus.org/) - 
 
 
 
 ## 📃 Writing  
 
-**Fonts**  
+**◾ Fonts**  
 [10001Fonts](https://www.1001fonts.com/) - Offers a large collection of free downloadable fonts for various uses.  
 [Dafont](https://www.dafont.com/pt/) - Provides a library of free fonts with a focus on artistic and decorative styles.  
 [Font Squirel](https://www.fontsquirrel.com/) - Curates and offers free, high-quality fonts with clear licensing information for commercial use.  
 
-**Systems**
+**◾ Systems**
 [Canvas-Txt](https://canvas-txt.geongeorge.com/) -  
   
 ##  🔊 Audio  
 
-**Sounds**  
+**◾ Sounds**  
 [FreeSound](https://freesound.org/) - Large community-driven library of free sound effects and music for various uses.  
 [OpenGameArt](https://opengameart.org/) - Free game art resource, also includes sound effects.  
 [Unity Asset Store](https://assetstore.unity.com/) - Official marketplace for Unity game assets.  
@@ -216,7 +238,7 @@ Visit our official website to learn more about our projects and contributions to
 [FreePD](https://freepd.com/) - 
 [PacDV](https://www.pacdv.com/sounds/index.html) - 
 
-**Musics**  
+**◾ Musics**  
 [FreeMusicArchive](https://freemusicarchive.org/) - Large collection of free, licensed music for various creative projects.  
 [Incompetech](https://incompetech.com/music/) - Kevin MacLeod's website offering a vast library of free, royalty-free music for creators.  
 [Bensound](https://www.bensound.com/) - Website by Bensound providing royalty-free music with a focus on clean and modern sounds.  
@@ -224,11 +246,16 @@ Visit our official website to learn more about our projects and contributions to
 [Musopen](https://musopen.org/#google_vignette) - 
 [UISounds](http://raisedbeaches.com/octave/index.html) - 
 
-**Systems**
+**◾ Systems**
 [Soundbox](https://sb.bitsnbites.eu/) -
 [Jsfxr](https://sfxr.me/) -
+[Jfxr](https://jfxr.frozenfractal.com/) - 
 [ZzFX](https://killedbyapixel.github.io/ZzFX/) -
 [MiniSoundEditor](https://xem.github.io/MiniSoundEditor/) - 
+[Audacity](https://sourceforge.net/projects/audacity/) - 
+[BeepBox](http://www.beepbox.co/) - 
+[ChipTone](https://sfbgames.itch.io/chiptone) - 
+[FamiTracker](http://famitracker.com/) - 
 [Unminus](https://www.unminus.com/) - Provides royalty-free music with a focus on subscription plans for creators.  
 [NewGrounds](https://www.newgrounds.com/audio/) - Online community known for games and animation, also features a section for royalty-free music submissions.  
 [DigCCMixter](http://dig.ccmixter.org/) - Platform offering free and paid music under Creative Commons licenses, allowing creators to remix and adapt music for their projects.  
