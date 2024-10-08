@@ -59,6 +59,7 @@ Download free 2D game assets, including sprites, textures, and animations, to br
  [TileSetter](https://www.tilesetter.org/) - Tool for creating tilesets and maps for games.  
  [Pixen](https://pixenapp.com/) -  
  [SpriteStack](https://spritestack.io/) -  
+ [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - 
  
 ## 🎲 3D Assets 
 Access high-quality 3D models, textures, and environments perfect for creating stunning indie games in Unity, Unreal, or other game engines.  
@@ -115,7 +116,10 @@ Browse code snippets, scripts, and full modules to help streamline game logic, A
 [CodeOpen](https://codepen.io/) -  
 [Chess Programing Wiki](https://www.chessprogramming.org/Main_Page) -
 [Unity Learn](https://learn.unity.com/) - 
-[Love2D](https://love2d.org/wiki/Main_Page) - 
+[Love2D](https://love2d.org/wiki/Main_Page) -
+[Bgfx](https://github.com/bkaradzic/bgfx?tab=readme-ov-file) - 
+[3D Game Shaders](https://github.com/lettier/3d-game-shaders-for-beginners?tab=readme-ov-file) - 
+
 
 
 
@@ -167,6 +171,20 @@ Browse code snippets, scripts, and full modules to help streamline game logic, A
 [TileEngine](https://www.tilengine.org/) - 
 [Unity](https://unity.com/) - 
 [Unreal](https://www.unrealengine.com/en-US) - 
+[Bevy](https://bevyengine.org/) - 
+[Cinder](https://libcinder.org/) - 
+[Dash Engine](https://libcinder.org/) - 
+[Evergine](https://evergine.com/) - 
+[JMonkeyEngine](https://jmonkeyengine.org/) - 
+[Ogre](https://www.ogre3d.org/) - 
+[Panda3D](https://www.panda3d.org/) - 
+[Piston](https://www.piston.rs/) - 
+[PlayCanvas](https://playcanvas.com/) - 
+[Raylib](https://www.raylib.com/) - 
+[SuperPowers](https://sparklinlabs.itch.io/superpowers) - 
+[Stride](https://www.stride3d.net/) - 
+[PlayCanvas](https://github.com/playcanvas/engine) - 
+
 
 
 ## 📃 Writing
