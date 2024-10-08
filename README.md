@@ -39,6 +39,9 @@ Download free 2D game assets, including sprites, textures, and animations, to br
  [Trianglify.io](https://trianglify.io/) - Low poly pattern generator to create unique backgrounds.  
  [HeroPatterns](https://heropatterns.com/) - Free, repeatable SVG background patterns for web projects.  
 
+ **UI**
+ [Mobile Game GUI](https://graphicburger.com/mobile-game-gui/) - 
+ 
  **Icons**  
  [GameIcons.Net](https://game-icons.net/) - Offers free and paid game icons.  
  [GoogleFonts](https://fonts.google.com/icons) - Provides access to free, open-source icons alongside Google Fonts.  
@@ -74,6 +77,8 @@ Access high-quality 3D models, textures, and environments perfect for creating s
 [CadNav](https://www.cadnav.com/3d-models/) - Offers 3D models, likely with a focus on engineering and technical uses.  
 [CGTrader](https://www.cgtrader.com/3d-models/animals?free=1) - Free 3D models.  
 [BlenderNation](https://www.blendernation.com/category/art/free-blender-models/) - Website offers tutorials and resources for using Blender.  
+[Blender 3D Models](https://www.blender-models.com/) -
+[PoliPizza](https://poly.pizza/) - 
 
 **3D Animations**  
 [Unity Asset Store](https://assetstore.unity.com/) - Official marketplace for Unity game assets.  
@@ -86,6 +91,9 @@ Access high-quality 3D models, textures, and environments perfect for creating s
 [Textures.com](https://www.textures.com/) - Large marketplace for various textures, both free and paid.  
 [GameTextures](https://gametextures.com/shop?order=new&s=) - Focused marketplace for game textures.  
 [Quixel](https://quixel.com/megascans/home) - Sells high-quality, realistic texture scans of materials.  
+[MatCap](https://github.com/nidorx/matcaps#matcaps) - 
+[LotPixel](https://www.lotpixel.com/) - 
+[PlainTexture](https://www.plaintextures.com/) - 
 
 **Systems**  
 [BoundingBoxSoftware](https://boundingboxsoftware.com/materialize/) - A tool that lets you create game materials directly from images.  
@@ -106,10 +114,13 @@ Browse code snippets, scripts, and full modules to help streamline game logic, A
 [Kontra](https://straker.github.io/kontra/) -  
 [CodeOpen](https://codepen.io/) -  
 [Chess Programing Wiki](https://www.chessprogramming.org/Main_Page) -
+[Unity Learn](https://learn.unity.com/) - 
+[Love2D](https://love2d.org/wiki/Main_Page) - 
+
 
 
 **Tutorial**
-[TypeScript GameDev Tutorial](https://www.youtube.com/watch?v=7bejSTim38A) - 
+[TypeScript GameDev Tutorial](https://www.youtube.com/watch?v=7bejSTim38A) -
 [Simple Game Tutorial](https://berbasoft.com/simplegametutorials/) -
 [Python Multiplayer Game](https://www.youtube.com/watch?v=McoDjOCb2Zo) - 
 [Beat Em Up Fight Game Tutorial](https://www.youtube.com/watch?v=McoDjOCb2Zo) -
@@ -120,7 +131,15 @@ Browse code snippets, scripts, and full modules to help streamline game logic, A
 [Space Invaders on OpenGL](https://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html) - 
 [Sudoku in C](https://www.youtube.com/watch?v=9aMUyoYDI-0&list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) -
 [Chess in C](https://www.youtube.com/watch?v=bGAfaepBco4&list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg&index=2) - 
-
+[Sprite in Java](https://medium.com/dailyjs/how-to-build-a-simple-sprite-animation-in-javascript-b764644244aa) -
+[2D Roguelite in Unity](https://learn.unity.com/project/2d-roguelike-tutorial) - 
+[3D Begginer in Unity](https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner) - 
+[VR Beginner in Unity](https://learn.unity.com/project/vr-beginner-the-escape-room) - 
+[RPG Beginner in Unity](https://learn.unity.com/project/creator-kit-rpg) - 
+[FPS Beginner in Unity](https://learn.unity.com/project/fps-template?courseId=5c59cf22edbc2a001f59aa5d) -
+[Platform Beginner in Unity](https://learn.unity.com/project/2d-platformer-template?courseId=5c59cf22edbc2a001f59aa5d) - 
+[Race Beginner in Unity](https://learn.unity.com/project/2d-platformer-template?courseId=5c59cf22edbc2a001f59aa5d) - 
+[Tetris in C++](https://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/) - 
 
 **Systems**
 [Godot](https://godotengine.org/) -  
@@ -130,6 +149,25 @@ Browse code snippets, scripts, and full modules to help streamline game logic, A
 [Phaser](https://phaser.io/) -  
 [Floppy](https://github.com/lpagg/floppy) -  
 [Jabo](https://jabo-bernardo.github.io/jabo-micro-game-engine/) -  
+[Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) - 
+[Cocos](https://www.cocos.com/en) -
+[Defold](https://defold.com/) - 
+[EasyRPG](https://easyrpg.org/) - 
+[Glide](https://github.com/cocoatoucher/Glide) - 
+[HaxeFlixel](https://haxeflixel.com/) - 
+[Heaps](https://heaps.io/) - 
+[MonoGame](https://monogame.net/) - 
+[OpenFL](https://www.openfl.org/) - 
+[ORX](https://orx-project.org/) - 
+[PYGames](https://github.com/pygame/pygame) - 
+[RenPy](https://www.renpy.org/) - 
+[Solarus](https://www.solarus-games.org/) - 
+[Solar2D](https://github.com/coronalabs/corona) - 
+[Stencyl](https://www.stencyl.com/) - 
+[TileEngine](https://www.tilengine.org/) - 
+[Unity](https://unity.com/) - 
+[Unreal](https://www.unrealengine.com/en-US) - 
+
 
 ## 📃 Writing
 Find everything you need to build rich, interactive game narratives. Browse through dialogue scripts, story outlines, and fonts to give your indie game a strong, narrative-driven foundation.  
@@ -154,12 +192,16 @@ Enhance your game's atmosphere with free sound effects, music tracks, and audio 
 [ZapsPlat](https://www.zapsplat.com/) - Offers free high-quality sound effects categorized for easy browsing.  
 [GameSounds](https://gamesounds.xyz/#google_vignette) - Collection of free sound effects specifically designed for game development.  
 [SoundBible](https://soundbible.com/#google_vignette) - Provides a large library of free sound effects with clear licensing information.  
+[FreePD](https://freepd.com/) - 
+[PacDV](https://www.pacdv.com/sounds/index.html) - 
 
 **Musics**  
 [FreeMusicArchive](https://freemusicarchive.org/) - Large collection of free, licensed music for various creative projects.  
 [Incompetech](https://incompetech.com/music/) - Kevin MacLeod's website offering a vast library of free, royalty-free music for creators.  
 [Bensound](https://www.bensound.com/) - Website by Bensound providing royalty-free music with a focus on clean and modern sounds.  
 [Icons8](https://icons8.com/music) - Offers a selection of royalty-free music alongside other creative assets like icons and illustrations.  
+[Musopen](https://musopen.org/#google_vignette) - 
+[UISounds](http://raisedbeaches.com/octave/index.html) - 
 
 **Systems**
 [Soundbox](https://sb.bitsnbites.eu/) -
