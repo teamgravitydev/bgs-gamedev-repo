@@ -10,17 +10,15 @@ Visit our official website to learn more about our projects and contributions to
 📖 [General](https://github.com/bluegravitystudios/indie-game-assets/blob/main/README.md#-general)  
 🎨 [2D Assets](https://github.com/bluegravitystudios/indie-game-assets/blob/main/README.md#-2d-assets)  
 🎲 [3D Assets](https://github.com/bluegravitystudios/indie-game-assets/blob/main/README.md#-3d-assets)  
-🧩 [Design](https://github.com/bluegravitystudios/indie-game-assets/blob/main/README.md#-design)  
+🧩 [Game Design](https://github.com/bluegravitystudios/indie-game-assets/blob/main/README.md#-design)  
 💻 [Code](https://github.com/bluegravitystudios/indie-game-assets/blob/main/README.md#-code)  
 🔊 [Audio](https://github.com/bluegravitystudios/indie-game-assets/blob/main/README.md#-audio)  
 
 
-##  📖 General
-Explore a collection of essential resources for game development, including guides, tutorials, and tips to help indie developers level up their skills and create innovative games.  
+##  📖 Production  
  
 
-## 🎨 2D Assets
-Download free 2D game assets, including sprites, textures, and animations, to bring your indie game projects to life with vibrant visuals and smooth motion.  
+## 🎨 2D Assets  
 
 **2D Models**  
  [Kenney](https://kenney.nl/assets) - Free game art and assets.  
@@ -61,8 +59,7 @@ Download free 2D game assets, including sprites, textures, and animations, to br
  [SpriteStack](https://spritestack.io/) -  
  [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - 
  
-## 🎲 3D Assets 
-Access high-quality 3D models, textures, and environments perfect for creating stunning indie games in Unity, Unreal, or other game engines.  
+## 🎲 3D Assets   
 
 **3D Models**  
 [Kenney](https://kenney.nl/assets) -  Free 2D and 3D game assets.  
@@ -102,14 +99,16 @@ Access high-quality 3D models, textures, and environments perfect for creating s
 [TextureGenerator](https://cpetry.github.io/TextureGenerator-Online/) - Free online tool for creating basic textures.  
 [TexturePacker](https://www.codeandweb.com/texturepacker) - Software program for creating sprite sheets from individual images.  
  
-## 🧩 Design
-Find design templates, wireframes, and game mechanics blueprints to streamline your game development process and create engaging, well-structured games.
+## 🧩 Game Design  
+
+**Mechanics**
+[Board Geek Game](https://boardgamegeek.com/browse/boardgamemechanic) - 
+
 
 **Systems**  
 [YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - A tool used to build interactive dialogue in games.  
   
-## 💻 Code
-Browse code snippets, scripts, and full modules to help streamline game logic, AI, and mechanics in your indie game projects, compatible with Unity, Unreal, and other platforms.
+## 💻 Code  
 
 **Code**
 [Kontra](https://straker.github.io/kontra/) -  
@@ -119,6 +118,12 @@ Browse code snippets, scripts, and full modules to help streamline game logic, A
 [Love2D](https://love2d.org/wiki/Main_Page) -
 [Bgfx](https://github.com/bkaradzic/bgfx?tab=readme-ov-file) - 
 [3D Game Shaders](https://github.com/lettier/3d-game-shaders-for-beginners?tab=readme-ov-file) - 
+[AirConsole](https://developers.airconsole.com/#!/) -
+[DotRecast](https://github.com/ikpil/DotRecast) - 
+[Ecs-lib](https://github.com/nidorx/ecs-lib#readme) -
+[KitLang](https://www.kitlang.org/) - 
+[P2.js](https://github.com/schteppe/p2.js) - 
+[SimpleAI](https://mgerhardy.github.io/simpleai/) - 
 
 
 
@@ -187,8 +192,7 @@ Browse code snippets, scripts, and full modules to help streamline game logic, A
 
 
 
-## 📃 Writing
-Find everything you need to build rich, interactive game narratives. Browse through dialogue scripts, story outlines, and fonts to give your indie game a strong, narrative-driven foundation.  
+## 📃 Writing  
 
 **Fonts**  
 [10001Fonts](https://www.1001fonts.com/) - Offers a large collection of free downloadable fonts for various uses.  
@@ -198,8 +202,7 @@ Find everything you need to build rich, interactive game narratives. Browse thro
 **Systems**
 [Canvas-Txt](https://canvas-txt.geongeorge.com/) -  
   
-##  🔊 Audio
-Enhance your game's atmosphere with free sound effects, music tracks, and audio loops designed specifically for indie game developers looking to elevate their sound design.  
+##  🔊 Audio  
 
 **Sounds**  
 [FreeSound](https://freesound.org/) - Large community-driven library of free sound effects and music for various uses.  
