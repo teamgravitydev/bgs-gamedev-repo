@@ -54,6 +54,8 @@ Download free 2D game assets, including sprites, textures, and animations, to br
  [MapEditor](https://www.mapeditor.org/) - Online map editor for creating tile-based maps.  
  [TexturePacker](https://www.codeandweb.com/texturepacker) -  Software for creating sprite sheets.  
  [TileSetter](https://www.tilesetter.org/) - Tool for creating tilesets and maps for games.  
+ [Pixen](https://pixenapp.com/) -  
+ [SpriteStack](https://spritestack.io/) -  
  
 ## 🎲 3D Assets 
 Access high-quality 3D models, textures, and environments perfect for creating stunning indie games in Unity, Unreal, or other game engines.  
@@ -100,6 +102,35 @@ Find design templates, wireframes, and game mechanics blueprints to streamline y
 ## 💻 Code
 Browse code snippets, scripts, and full modules to help streamline game logic, AI, and mechanics in your indie game projects, compatible with Unity, Unreal, and other platforms.
 
+**Code**
+[Kontra](https://straker.github.io/kontra/) -  
+[CodeOpen](https://codepen.io/) -  
+[Chess Programing Wiki](https://www.chessprogramming.org/Main_Page) -
+
+
+**Tutorial**
+[TypeScript GameDev Tutorial](https://www.youtube.com/watch?v=7bejSTim38A) - 
+[Simple Game Tutorial](https://berbasoft.com/simplegametutorials/) -
+[Python Multiplayer Game](https://www.youtube.com/watch?v=McoDjOCb2Zo) - 
+[Beat Em Up Fight Game Tutorial](https://www.youtube.com/watch?v=McoDjOCb2Zo) -
+[How to use Godot](https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ) -
+[Godot UI System](https://www.youtube.com/watch?v=y1E_y9AIqow) - 
+[Multiplayer Card Game Unity](https://www.youtube.com/watch?v=y1E_y9AIqow) - 
+[Snake Game onRuby](https://diatomenterprises.com/gamedev-on-ruby-why-not/) - 
+[Space Invaders on OpenGL](https://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html) - 
+[Sudoku in C](https://www.youtube.com/watch?v=9aMUyoYDI-0&list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) -
+[Chess in C](https://www.youtube.com/watch?v=bGAfaepBco4&list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg&index=2) - 
+
+
+**Systems**
+[Godot](https://godotengine.org/) -  
+[AFrame](https://aframe.io/docs/0.6.0/introduction/) -  
+[JavaScript Performance Monitor](https://github.com/mrdoob/stats.js) -
+[LittleJS](https://github.com/KilledByAPixel/LittleJS) -  
+[Phaser](https://phaser.io/) -  
+[Floppy](https://github.com/lpagg/floppy) -  
+[Jabo](https://jabo-bernardo.github.io/jabo-micro-game-engine/) -  
+
 ## 📃 Writing
 Find everything you need to build rich, interactive game narratives. Browse through dialogue scripts, story outlines, and fonts to give your indie game a strong, narrative-driven foundation.  
 
@@ -107,6 +138,9 @@ Find everything you need to build rich, interactive game narratives. Browse thro
 [10001Fonts](https://www.1001fonts.com/) - Offers a large collection of free downloadable fonts for various uses.  
 [Dafont](https://www.dafont.com/pt/) - Provides a library of free fonts with a focus on artistic and decorative styles.  
 [Font Squirel](https://www.fontsquirrel.com/) - Curates and offers free, high-quality fonts with clear licensing information for commercial use.  
+
+**Systems**
+[Canvas-Txt](https://canvas-txt.geongeorge.com/) -  
   
 ##  🔊 Audio
 Enhance your game's atmosphere with free sound effects, music tracks, and audio loops designed specifically for indie game developers looking to elevate their sound design.  
@@ -126,6 +160,12 @@ Enhance your game's atmosphere with free sound effects, music tracks, and audio 
 [Incompetech](https://incompetech.com/music/) - Kevin MacLeod's website offering a vast library of free, royalty-free music for creators.  
 [Bensound](https://www.bensound.com/) - Website by Bensound providing royalty-free music with a focus on clean and modern sounds.  
 [Icons8](https://icons8.com/music) - Offers a selection of royalty-free music alongside other creative assets like icons and illustrations.  
+
+**Systems**
+[Soundbox](https://sb.bitsnbites.eu/) -
+[Jsfxr](https://sfxr.me/) -
+[ZzFX](https://killedbyapixel.github.io/ZzFX/) -
+[MiniSoundEditor](https://xem.github.io/MiniSoundEditor/) - 
 [Unminus](https://www.unminus.com/) - Provides royalty-free music with a focus on subscription plans for creators.  
 [NewGrounds](https://www.newgrounds.com/audio/) - Online community known for games and animation, also features a section for royalty-free music submissions.  
 [DigCCMixter](http://dig.ccmixter.org/) - Platform offering free and paid music under Creative Commons licenses, allowing creators to remix and adapt music for their projects.  
