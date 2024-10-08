@@ -20,7 +20,7 @@ Visit our official website to learn more about our projects and contributions to
 
 ## 🎨 2D Assets  
 
-**2D Models**  
+**◾ 2D Models**  
  [Kenney](https://kenney.nl/assets) - Free game art and assets.  
  [OpenGameArt](https://opengameart.org/) - Free community-driven game art.    
  [DevAssets](https://devassets.com/) - High-quality game assets for sale.  
@@ -32,15 +32,15 @@ Visit our official website to learn more about our projects and contributions to
  [UnluckyStudio](https://unluckystudio.com/category/freegameart/) - Free game art for 2D games.  
  [Widgetworx](https://www.widgetworx.com/projects/sl.html) - Free graphic objects for game development.  
 
- **Backgrounds**  
+ **◾ Backgrounds**  
  [UnluckyStudio](https://unluckystudio.com/category/freegameart/) - Free game art for 2D games, including characters, backgrounds, and weapons.  
  [Trianglify.io](https://trianglify.io/) - Low poly pattern generator to create unique backgrounds.  
  [HeroPatterns](https://heropatterns.com/) - Free, repeatable SVG background patterns for web projects.  
 
- **UI**
+ **◾ UI**
  [Mobile Game GUI](https://graphicburger.com/mobile-game-gui/) - 
  
- **Icons**  
+ **◾ Icons**  
  [GameIcons.Net](https://game-icons.net/) - Offers free and paid game icons.  
  [GoogleFonts](https://fonts.google.com/icons) - Provides access to free, open-source icons alongside Google Fonts.  
  [SVGrepo](https://www.svgrepo.com/)- Provides a collection of free SVG icons for web projects.  
@@ -49,7 +49,7 @@ Visit our official website to learn more about our projects and contributions to
  [IconStore](https://iconstore.co/) - Sells high-quality, premium icons for various uses.  
  [DevianArt7Soul1](https://www.deviantart.com/7soul1/art/420-Pixel-Art-Icons-for-RPG-129892453) - Offers a specific set of 420 pixel art icons designed for RPG games.  
 
- **Systems**  
+ **◾ Systems**  
  [Aseprite](https://www.aseprite.org/) - A dedicated program for creating pixel art and animations.  
  [Piskell](https://www.piskelapp.com/) - A free, web-based tool for creating pixel art and basic animations.  
  [MapEditor](https://www.mapeditor.org/) - Online map editor for creating tile-based maps.  
