@@ -1,10 +1,10 @@
-## 🔷 Learning Resources
+## Learning Resources
 
 This repo is your gateway to learning game development.  
 
 We've curated a collection of valuable resources, including books, online courses, tutorials, and YouTube channels, all tailored to help you master the various skills needed in game development. If you're looking for beginner-friendly materials or advanced deep dives into specific topics, this is your go-to resource hub to accelerate your learning journey in game creation.  
 
-## 🎨 Art and Animation  
+## Art and Animation  
 
 **◾ Courses**  
 [Epic Games: User Interface in Game Design](https://www.coursera.org/learn/user-interface-in-game-design) - Epic Game course about Interface Design Theory, Motion Graphics, Modular Components and User Interface.  
@@ -20,7 +20,7 @@ We've curated a collection of valuable resources, including books, online course
 **◾ Youtube**  
 [Cuphead's Animation Process and Philosophy](https://www.youtube.com/watch?v=RmGb-jU3uVQ) - Very interesting knowledge but not as transferrable to our work. Still a very interesting watch.  
 
-## 🕹 Game Design  
+## Game Design  
 
 **◾ Books**  
 [2D Game Development: From Zero to Hero](https://gitlab.com/Penaz/2dgd_f0th) - Open-source course materials for learning 2D game development.  
@@ -52,11 +52,11 @@ We've curated a collection of valuable resources, including books, online course
 [Magic: the Gathering: 20 Years, 20 Lessons Learned](https://www.youtube.com/watch?v=QHHg99hwQGY) - Youtube video on the design of Magic. Amazing talk, everyone should watch it regardless if you are into magic because the lessons here are transferable to any game.  
 [What Went Wrong with Gaming?](https://www.youtube.com/watch?v=g16heGLKlTA) - Focus on monetization has led to a decline in the quality of games and a more negative experience for players.  
 
-## 🧱 Production  
+## Production  
 **◾ Youtube**  
 [Blue Gravity Youtube](https://www.youtube.com/@BlueGravityGames) - Our own Studio Channel containing production tips and informations.  
 
-## 💻 Programming  
+## Programming  
 
 **◾ Courses**  
 [Code Academy](https://www.codecademy.com/catalog/subject/game-development) - Explore various game development courses offered by Code Academy.  
@@ -92,7 +92,7 @@ We've curated a collection of valuable resources, including books, online course
 [Multiplayer Card Game Unity](https://www.youtube.com/watch?v=y1E_y9AIqow) - Build a multiplayer card game using Unity with this YouTube tutorial.  
 [Python Multiplayer Game](https://www.youtube.com/watch?v=McoDjOCb2Zo) - Learn to create these specific game types with Python.  
 
-## 🗞 Publishing  
+## Publishing  
 **◾ Youtube**  
 [30 Things I Hate About Your Game Pitch](https://www.youtube.com/watch?v=4LTtr45y7P0) - Good pitching 101 for game studios but very basic advice.  
 [Effectively Pitching to Publishers](https://www.youtube.com/watch?v=JZyCgChW0dc) - Worth watching, but not groundbreaking. The very typical publisher mentality does not advise how to actually make a game and just cheap tricks.  
@@ -101,12 +101,12 @@ We've curated a collection of valuable resources, including books, online course
 [State of hyper-casual games in 2022 by Tom Cui](https://www.youtube.com/watch?v=T5cYlhBz1A4) - Progress in the last year.  
 [Success in Hyper-Casual](https://www.youtube.com/watch?v=QfojHNoBC5w) - Advice on hypercasual success, this is a crazy video.   
 
-## 💰 Selling and Sales  
+## Selling and Sales  
 
 **◾ Books**  
 [Way of the Wolf: Straight Line Selling: Master the Art of Persuasion, Influence, and Success](https://www.amazon.co.uk/Way-Wolf-Straight-Persuasion-Influence/dp/B07565WVQR/ref=sr_1_1?crid=8D58CQCDGBYI&dib=eyJ2IjoiMSJ9.d0pbKKojfgZH_1GgjqgQbjzLVRzRy1R8sQNK9oSEuNPmkhxZSLy_PgyZvnNrCt50KHUXtFRp8EUUyDp-EnR6OIKtKKDa56iIqy16FnP4_Z6YTbmkT11Htt1zkgWSFknprTxaCJO-ltzBpTuUW6qJ2OZLYczP8VjEEJDSeEOh8OebBakV_IS0bWMSFRZxtDyU-Sstxe4pXVDqMkd59789-w3tJXyTAuFQeBuCELw2sRQ.U1DQfS9d43wT1IifaUED_UZkun6j9vZRZ5oU6vTXkfU&dib_tag=se&keywords=way+of+the+wolf&qid=1728417011&s=books&sprefix=way+of+the+wold%2Cstripbooks%2C554&sr=1-1) - One of the best books on selling. Every sales team must reach this. Can find PDF for free online.  
 
-## 🏢 Startup  
+## Startup  
 **◾ Youtube**  
 [10+1 Lessons from Serial Entrepreneur Justin Kan](https://www.youtube.com/watch?v=Q-Cbav_Dt2s) - Justin Kan is the founder of Twitch and offers amazing insight into how to develop a business from zero.  
 [Meet The Man Who Created & Sold Twitch For Almost $1 Billion | Stay Curious #34](https://www.youtube.com/watch?v=09MzN6xoDzQ) - Basic information on startup fundamentals. Worth watching for everyone.  
