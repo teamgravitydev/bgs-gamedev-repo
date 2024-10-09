@@ -1,3 +1,13 @@
+## 📕 Books  
+
+**◾ Game Design**  
+[2D Game Development: From Zero to Hero](https://gitlab.com/Penaz/2dgd_f0th) - Open-source course materials for learning 2D game development.  
+[Blood, Sweat, and Pixels](https://www.amazon.co.uk/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234) - The Triumphant, Turbulent Stories Behind How Video Games Are Made, by Jason Schreier.  
+[The Art of Game Design - Book](https://www.inventoridigiochi.it/wp-content/uploads/2020/07/art-of-game-design.pdf) - A free PDF copy of the book "The Art of Game Design" by Jesse Schell.  
+
+**◾ Selling and Sales**  
+[Way of the Wolf: Straight Line Selling: Master the Art of Persuasion, Influence, and Success](https://www.amazon.co.uk/Way-Wolf-Straight-Persuasion-Influence/dp/B07565WVQR/ref=sr_1_1?crid=8D58CQCDGBYI&dib=eyJ2IjoiMSJ9.d0pbKKojfgZH_1GgjqgQbjzLVRzRy1R8sQNK9oSEuNPmkhxZSLy_PgyZvnNrCt50KHUXtFRp8EUUyDp-EnR6OIKtKKDa56iIqy16FnP4_Z6YTbmkT11Htt1zkgWSFknprTxaCJO-ltzBpTuUW6qJ2OZLYczP8VjEEJDSeEOh8OebBakV_IS0bWMSFRZxtDyU-Sstxe4pXVDqMkd59789-w3tJXyTAuFQeBuCELw2sRQ.U1DQfS9d43wT1IifaUED_UZkun6j9vZRZ5oU6vTXkfU&dib_tag=se&keywords=way+of+the+wolf&qid=1728417011&s=books&sprefix=way+of+the+wold%2Cstripbooks%2C554&sr=1-1) - One of the best books on selling. Every sales team must reach this. Can find PDF for free online.  
+
 ## 🎓 Courses  
 
 **Art and Animation**  
@@ -21,6 +31,36 @@
 [Epic Games: Introduction to Game Design](https://www.coursera.org/learn/introduction-to-game-design) - Starter course on game design concepts by Epic Games.  
 [Epic Games: User Experience in Game Design](https://www.coursera.org/learn/user-experience-in-game-design) - Course focusing on user experience (UX) in game design by Epic Games.  
 [Udemy Courses: Game Design](https://www.udemy.com/courses/design/game-design/?lang=en&price=price-free&sort=popularity) - Free Udemy courses related to game design.  
+
+## 💡 Tutorials  
+
+**◾ Art and Animation**  
+[Pixel Art Tutorial](https://www.deviantart.com/gasara/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783) - Pixel art for beginners. It discusses what pixel art is and how to make it. 
+
+**◾ Game Design**  
+[Designer Notes](https://www.designer-notes.com/) - Articles and insights into video game design.  
+[Game Developer](https://www.gamedeveloper.com/) - Articles and tutorials on game design from an industry perspective.  
+[GDC Vault](https://gdcvault.com/) - Access recordings and presentations from past GDC conferences.  
+[Lost Garden](https://lostgarden.com/) - Resources and information for indie game developers.  
+
+**◾ Developers**  
+[2D Roguelite in Unity](https://learn.unity.com/project/2d-roguelike-tutorial) - Build a roguelike game with procedurally generated levels.  
+[3D Begginer in Unity](https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner) - Get started with creating 3D games in Unity.  
+[Chess in C](https://www.youtube.com/watch?v=bGAfaepBco4&list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg&index=2) - Create a chess game using C programming.  
+[FPS Beginner in Unity](https://learn.unity.com/project/fps-template?courseId=5c59cf22edbc2a001f59aa5d) - Build a first-person shooter game with Unity.  
+[Platform Beginner in Unity](https://learn.unity.com/project/2d-platformer-template?courseId=5c59cf22edbc2a001f59aa5d) - Develop a 2D platformer game.  
+[Race Beginner in Unity](https://learn.unity.com/project/2d-platformer-template?courseId=5c59cf22edbc2a001f59aa5d) - Create a racing game using Unity's 2D platformer template.  
+[RPG Beginner in Unity](https://learn.unity.com/project/creator-kit-rpg) - Learn the basics of creating role-playing games in Unity.  
+[Simple Game Tutorial](https://berbasoft.com/simplegametutorials/) - Follow along with a basic game tutorial on Berbasoft.com.  
+[Snake Game onRuby](https://diatomenterprises.com/gamedev-on-ruby-why-not/) - Build a classic Snake game using the Ruby programming language.  
+[Space Invaders on OpenGL](https://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html) - Learn how to create the Space Invaders game from scratch using OpenGL graphics library.  
+[Sprite in Java](https://medium.com/dailyjs/how-to-build-a-simple-sprite-animation-in-javascript-b764644244aa) - Learn how to animate sprites for your games using JavaScript.  
+[Sudoku in C](https://www.youtube.com/watch?v=9aMUyoYDI-0&list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) - Develop the logic puzzle game Sudoku in C.  
+[Tetris in C++](https://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/) - Build the classic Tetris game using C++ with this tutorial.  
+[TypeScript GameDev Tutorial](https://www.youtube.com/watch?v=7bejSTim38A) - Learn game development using TypeScript.  
+[Unity Learn](https://learn.unity.com/) - Official learning platform from Unity Technologies with tutorials and courses for game development.  
+[Unity Tutorial Projects](https://assetstore.unity.com/listing#cf-ec_category=essentials,tutorial-projects&nf-ec_price_filter=0...0) - Free Unity game development tutorials.  
+[VR Beginner in Unity](https://learn.unity.com/project/vr-beginner-the-escape-room) - Develop a virtual reality experience using Unity.  
 
 ## ▶ Youtube  
 
@@ -60,45 +100,8 @@
 [Michael Seibel - Building Product](https://www.youtube.com/watch?v=C27RVio2rOs) - Incredible advice on why Twitch succeeded and what made them unique. Must watch.  
 [MY SECRET TIPS for pitching your startup to investors](https://www.youtube.com/watch?v=5SS_oCS3iTM) - How to pitch, very useful.  
 
-## 💡 Tutorials  
 
-**◾ Art and Animation**  
-[Pixel Art Tutorial](https://www.deviantart.com/gasara/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783) - Pixel art for beginners. It discusses what pixel art is and how to make it. 
 
-**◾ Game Design**  
-[Designer Notes](https://www.designer-notes.com/) - Articles and insights into video game design.  
-[Game Developer](https://www.gamedeveloper.com/) - Articles and tutorials on game design from an industry perspective.  
-[GDC Vault](https://gdcvault.com/) - Access recordings and presentations from past GDC conferences.  
-[Lost Garden](https://lostgarden.com/) - Resources and information for indie game developers.  
-
-**◾ Developers**  
-[2D Roguelite in Unity](https://learn.unity.com/project/2d-roguelike-tutorial) - Build a roguelike game with procedurally generated levels.  
-[3D Begginer in Unity](https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner) - Get started with creating 3D games in Unity.  
-[Chess in C](https://www.youtube.com/watch?v=bGAfaepBco4&list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg&index=2) - Create a chess game using C programming.  
-[FPS Beginner in Unity](https://learn.unity.com/project/fps-template?courseId=5c59cf22edbc2a001f59aa5d) - Build a first-person shooter game with Unity.  
-[Platform Beginner in Unity](https://learn.unity.com/project/2d-platformer-template?courseId=5c59cf22edbc2a001f59aa5d) - Develop a 2D platformer game.  
-[Race Beginner in Unity](https://learn.unity.com/project/2d-platformer-template?courseId=5c59cf22edbc2a001f59aa5d) - Create a racing game using Unity's 2D platformer template.  
-[RPG Beginner in Unity](https://learn.unity.com/project/creator-kit-rpg) - Learn the basics of creating role-playing games in Unity.  
-[Simple Game Tutorial](https://berbasoft.com/simplegametutorials/) - Follow along with a basic game tutorial on Berbasoft.com.  
-[Snake Game onRuby](https://diatomenterprises.com/gamedev-on-ruby-why-not/) - Build a classic Snake game using the Ruby programming language.  
-[Space Invaders on OpenGL](https://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html) - Learn how to create the Space Invaders game from scratch using OpenGL graphics library.  
-[Sprite in Java](https://medium.com/dailyjs/how-to-build-a-simple-sprite-animation-in-javascript-b764644244aa) - Learn how to animate sprites for your games using JavaScript.  
-[Sudoku in C](https://www.youtube.com/watch?v=9aMUyoYDI-0&list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) - Develop the logic puzzle game Sudoku in C.  
-[Tetris in C++](https://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/) - Build the classic Tetris game using C++ with this tutorial.  
-[TypeScript GameDev Tutorial](https://www.youtube.com/watch?v=7bejSTim38A) - Learn game development using TypeScript.  
-[Unity Learn](https://learn.unity.com/) - Official learning platform from Unity Technologies with tutorials and courses for game development.  
-[Unity Tutorial Projects](https://assetstore.unity.com/listing#cf-ec_category=essentials,tutorial-projects&nf-ec_price_filter=0...0) - Free Unity game development tutorials.  
-[VR Beginner in Unity](https://learn.unity.com/project/vr-beginner-the-escape-room) - Develop a virtual reality experience using Unity.  
-
-## 📕 Books  
-
-**◾ Game Design**  
-[2D Game Development: From Zero to Hero](https://gitlab.com/Penaz/2dgd_f0th) - Open-source course materials for learning 2D game development.  
-[Blood, Sweat, and Pixels](https://www.amazon.co.uk/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234) - The Triumphant, Turbulent Stories Behind How Video Games Are Made, by Jason Schreier.  
-[The Art of Game Design - Book](https://www.inventoridigiochi.it/wp-content/uploads/2020/07/art-of-game-design.pdf) - A free PDF copy of the book "The Art of Game Design" by Jesse Schell.  
-
-**◾ Selling and Sales**  
-[Way of the Wolf: Straight Line Selling: Master the Art of Persuasion, Influence, and Success](https://www.amazon.co.uk/Way-Wolf-Straight-Persuasion-Influence/dp/B07565WVQR/ref=sr_1_1?crid=8D58CQCDGBYI&dib=eyJ2IjoiMSJ9.d0pbKKojfgZH_1GgjqgQbjzLVRzRy1R8sQNK9oSEuNPmkhxZSLy_PgyZvnNrCt50KHUXtFRp8EUUyDp-EnR6OIKtKKDa56iIqy16FnP4_Z6YTbmkT11Htt1zkgWSFknprTxaCJO-ltzBpTuUW6qJ2OZLYczP8VjEEJDSeEOh8OebBakV_IS0bWMSFRZxtDyU-Sstxe4pXVDqMkd59789-w3tJXyTAuFQeBuCELw2sRQ.U1DQfS9d43wT1IifaUED_UZkun6j9vZRZ5oU6vTXkfU&dib_tag=se&keywords=way+of+the+wolf&qid=1728417011&s=books&sprefix=way+of+the+wold%2Cstripbooks%2C554&sr=1-1) - One of the best books on selling. Every sales team must reach this. Can find PDF for free online.  
 
 
 
