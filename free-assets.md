@@ -93,7 +93,7 @@
 [Unity Asset Store](https://assetstore.unity.com/) - Official marketplace for Unity game assets.  
 [ZapsPlat](https://www.zapsplat.com/) - Offers free high-quality sound effects categorized for easy browsing.  
 
-## 💻 Developers  
+## 💻 Development  
 
 **◾ Code**  
 [3D Game Shaders](https://github.com/lettier/3d-game-shaders-for-beginners?tab=readme-ov-file) - Open-source project with resources on learning 3D game shaders.  
