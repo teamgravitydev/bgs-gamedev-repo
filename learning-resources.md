@@ -17,7 +17,7 @@
 [Udemy Courses: Game Art](https://www.udemy.com/topic/game-art/?price=price-free&sort=popularity) - Udemy free courses about 2D Art.  
 [Udemy Courses: Game Assets Creation](https://www.udemy.com/topic/game-asset/?price=price-free&sort=popularity) - Free Udemy courses focused on creating assets specifically for video games.  
 
-**◾ Developers**  
+**◾ Development**  
 [Code Academy](https://www.codecademy.com/catalog/subject/game-development) - Explore various game development courses offered by Code Academy.  
 [Epic Games: Game Development and Prototyping](https://www.coursera.org/learn/game-development-and-prototyping) - Learn the fundamentals of game development and rapid prototyping with Epic Games.  
 [Epic Games: Unreal Engine Fundamentals](https://www.coursera.org/learn/unreal-engine-fundamentals) - Get started with Unreal Engine through this foundational course by Epic Games.  
@@ -44,7 +44,7 @@
 [GDC Vault](https://gdcvault.com/) - Access recordings and presentations from past GDC conferences.  
 [Lost Garden](https://lostgarden.com/) - Resources and information for indie game developers.  
 
-**◾ Developers**  
+**◾ Development**  
 [2D Roguelite in Unity](https://learn.unity.com/project/2d-roguelike-tutorial) - Build a roguelike game with procedurally generated levels.  
 [3D Begginer in Unity](https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner) - Get started with creating 3D games in Unity.  
 [Chess in C](https://www.youtube.com/watch?v=bGAfaepBco4&list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg&index=2) - Create a chess game using C programming.  
@@ -68,7 +68,7 @@
 **◾ Art and Animation**  
 [Cuphead's Animation Process and Philosophy](https://www.youtube.com/watch?v=RmGb-jU3uVQ) - Very interesting knowledge but not as transferrable to our work. Still a very interesting watch.  
 
-**◾ Developers**  
+**◾ Development**  
 [Beat Em Up Fight Game Tutorial](https://www.youtube.com/watch?v=McoDjOCb2Zo) - Learn how to create a beat 'em up fighting game with this YouTube tutorial.  
 [Godot UI System](https://www.youtube.com/watch?v=y1E_y9AIqow) -  Explore using the Godot UI systems.  
 [How to use Godot](https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ) - Explore using the Godot game engine through YouTube videos.  
