@@ -71,6 +71,14 @@
 
 ## 🔊 Audio  
 
+**◾ Music**  
+[Bensound](https://www.bensound.com/) - Website by Bensound providing royalty-free music with a focus on clean and modern sounds.  
+[FreeMusicArchive](https://freemusicarchive.org/) - Large collection of free, licensed music for various creative projects.  
+[Incompetech](https://incompetech.com/music/) - Kevin MacLeod's website offering a vast library of free, royalty-free music for creators.  
+[Icons8](https://icons8.com/music) - Offers a selection of royalty-free music alongside other creative assets like icons and illustrations.  
+[Musopen](https://musopen.org/#google_vignette) - Non-profit organization offering free public domain recordings, sheet music, and educational resources for classical music.  
+[UISounds](http://raisedbeaches.com/octave/index.html) - Free library of user interface sound effects for web and mobile applications.  
+
 **◾ Sound**  
 [FreePD](https://freepd.com/) - Royalty-free public domain music library.  
 [FreeSFX](https://www.freesfx.co.uk/) - Provides a large library of free and paid sound effects, specifically focusing on game audio.  
@@ -84,19 +92,6 @@
 [Sonniss](https://sonniss.com/gameaudiogdc) - Resource for game audio information, including articles about sound design and potentially free resources linked within articles.  
 [Unity Asset Store](https://assetstore.unity.com/) - Official marketplace for Unity game assets.  
 [ZapsPlat](https://www.zapsplat.com/) - Offers free high-quality sound effects categorized for easy browsing.  
-
-**◾ Music**  
-[Bensound](https://www.bensound.com/) - Website by Bensound providing royalty-free music with a focus on clean and modern sounds.  
-[FreeMusicArchive](https://freemusicarchive.org/) - Large collection of free, licensed music for various creative projects.  
-[Incompetech](https://incompetech.com/music/) - Kevin MacLeod's website offering a vast library of free, royalty-free music for creators.  
-[Icons8](https://icons8.com/music) - Offers a selection of royalty-free music alongside other creative assets like icons and illustrations.  
-[Musopen](https://musopen.org/#google_vignette) - Non-profit organization offering free public domain recordings, sheet music, and educational resources for classical music.  
-[UISounds](http://raisedbeaches.com/octave/index.html) - Free library of user interface sound effects for web and mobile applications.  
-
-## 🕹 Game Design  
-
-**◾ Mechanics**  
-[Board Geek Game](https://boardgamegeek.com/browse/boardgamemechanic) - Explore board game mechanics and discover new games based on mechanics you enjoy.  
 
 ## 💻 Developers  
 
@@ -114,4 +109,9 @@
 [P2.js](https://github.com/schteppe/p2.js) - Open-source JavaScript library for physics simulation in 2D games.  
 [SimpleAI](https://mgerhardy.github.io/simpleai/) - Open-source Java library for basic AI behavior in games.  
 [Unreal Engine](https://www.unrealengine.com/marketplace/en-US/store) - Free assets for game development.  
+
+## 🕹 Game Design  
+
+**◾ Mechanics**  
+[Board Geek Game](https://boardgamegeek.com/browse/boardgamemechanic) - Explore board game mechanics and discover new games based on mechanics you enjoy.  
 
