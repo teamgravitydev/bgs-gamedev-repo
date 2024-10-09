@@ -35,7 +35,8 @@
 ## 💡 Tutorials  
 
 **◾ Art and Animation**  
-[Pixel Art Tutorial](https://www.deviantart.com/gasara/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783) - Pixel art for beginners. It discusses what pixel art is and how to make it. 
+[Pixel Art Tutorial](https://www.deviantart.com/gasara/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783) - Pixel art for beginners. It discusses what pixel art is and how to make it.  
+[Dota 2 Workshop - Character Art Guide](https://help.steampowered.com/en/faqs/view/0688-7692-4D5A-1935) - Dota’s full documentation on how they made their art.  
 
 **◾ Game Design**  
 [Designer Notes](https://www.designer-notes.com/) - Articles and insights into video game design.  
