@@ -10,14 +10,14 @@
 
 ## 🎓 Courses  
 
-**Art and Animation**  
+**◾ Art and Animation**  
 [Epic Games: User Interface in Game Design](https://www.coursera.org/learn/user-interface-in-game-design) - Epic Game course about Interface Design Theory, Motion Graphics, Modular Components and User Interface.  
 [Epic Games: Visual Development and Audio Design in Games](https://www.coursera.org/learn/game-visual-development-and-audio-design) - It discusses 3D models, animation, visual effects (VFX), and sound effects (SFX).  
 [Udemy Courses: 3D and Animation](https://www.udemy.com/courses/design/3d-and-animation/?price=price-free&sort=popularity) - Free Udemy courses related to 3D modeling and animation.  
 [Udemy Courses: Game Art](https://www.udemy.com/topic/game-art/?price=price-free&sort=popularity) - Udemy free courses about 2D Art.  
 [Udemy Courses: Game Assets Creation](https://www.udemy.com/topic/game-asset/?price=price-free&sort=popularity) - Free Udemy courses focused on creating assets specifically for video games.  
 
-**Developers**  
+**◾ Developers**  
 [Code Academy](https://www.codecademy.com/catalog/subject/game-development) - Explore various game development courses offered by Code Academy.  
 [Epic Games: Game Development and Prototyping](https://www.coursera.org/learn/game-development-and-prototyping) - Learn the fundamentals of game development and rapid prototyping with Epic Games.  
 [Epic Games: Unreal Engine Fundamentals](https://www.coursera.org/learn/unreal-engine-fundamentals) - Get started with Unreal Engine through this foundational course by Epic Games.  
