@@ -1,3 +1,9 @@
+## Gamedev-free-resources  
+
+Looking for free assets to bring your game to life? This repo is a treasure trove of free resources for game developers!  
+
+Here, you'll find a wide range of assets, including 2D and 3D art, sound effects, music, and more, all available at no cost. These resources are perfect for indie developers looking to enhance their projects without breaking the bank. Start building your game with these ready-to-use assets today!  
+
 ## 🎨 Art and Animation
 
 **◾ 2D Model**  
