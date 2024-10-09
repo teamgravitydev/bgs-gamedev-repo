@@ -6,7 +6,7 @@ Based in London, Blue Gravity Studios was founded by passionate gamers, focused 
 Visit our official website to learn more about our projects and contributions to the community: [Blue Gravity Studios](https://gravity.blue/)
 
 # Table of Content
-
+[Game Development 101](https://github.com/bluegravitystudios/bgs-gamedev-repo/blob/main/gamedev-101.md)
 [Learning Resources](https://github.com/bluegravitystudios/gameassets/blob/main/learning-resources.md)  
 [Free Assets](https://github.com/bluegravitystudios/gameassets/blob/main/free-assets.md)  
 [Free Engines](https://github.com/bluegravitystudios/gameassets/blob/main/free-engines.md)  
