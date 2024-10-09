@@ -1,4 +1,4 @@
-# Blue Gravity Studios
+# 🔷 Blue Gravity Studios
 At Blue Gravity Studios, we’re all about helping indie game developers turn their creative ideas into reality while simplifying the game development process, and this repository is full of free tools we've gathered to make that possible. You'll find everything from 2D and 3D assets, code snippets, and audio resources, ready to use in your indie projects. Whether you’re a beginner learning the basics or a seasoned developer looking for the best tools, this repo is designed to support your journey.  
 
 Based in London, Blue Gravity Studios was founded by passionate gamers who are committed to creating innovative and high-quality games. Alongside developing our own projects, we aim to make a positive impact on the indie game development scene by offering tools that streamline both the creative and technical processes.  
