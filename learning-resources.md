@@ -101,8 +101,8 @@
 [Michael Seibel - Building Product](https://www.youtube.com/watch?v=C27RVio2rOs) - Incredible advice on why Twitch succeeded and what made them unique. Must watch.  
 [MY SECRET TIPS for pitching your startup to investors](https://www.youtube.com/watch?v=5SS_oCS3iTM) - How to pitch, very useful.  
 
-**◾ Production**
-[Blue Gravity Youtube](https://www.youtube.com/@BlueGravityGames) - Our own Studio Channel containing production tips and informations.
+**◾ Production**  
+[Blue Gravity Youtube](https://www.youtube.com/@BlueGravityGames) - Our own Studio Channel containing production tips and informations.  
 
 
 
