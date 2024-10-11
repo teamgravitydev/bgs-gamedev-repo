@@ -6,8 +6,8 @@ Based in London, Blue Gravity Studios was founded by passionate gamers who are c
 **Explore the following four key repositories:**  
 🎓 [Game Development - 101](https://github.com/bluegravitystudios/gamedev-101.md) – A beginner's guide to understanding the various roles and stages in game creation.  
 📚 [Learning Resources](https://github.com/bluegravitystudios/learning-resources.md) – A curated collection of books, courses, and tutorials to help you expand your skills.  
-🧱 [Game Development Free Resources](https://github.com/bluegravitystudios/gamedev-free-resources) – A rich library of free assets, including art, sound, and music for your projects.  
 ⚙ [Free Engines](https://github.com/bluegravitystudios/free-engines.md) – A selection of powerful, free-to-use game engines like Unity, Unreal Engine, and Godot.  
+🧱 [Game Development Free Resources](https://github.com/bluegravitystudios/gamedev-free-resources) – A rich library of free assets, including art, sound, and music for your projects.  
 
 Visit our official website to learn more about our projects and contributions, and dive right into our repositories to start building your dream game!  
   
