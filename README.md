@@ -11,5 +11,5 @@ Based in London, Blue Gravity Studios was founded by passionate gamers who are c
 
 Visit our official website to learn more about our projects and contributions, and dive right into our repositories to start building your dream game!  
   
-[![Blue Gravity Studios Site](https://img.shields.io/badge/Blue_Gravity_Studios-Site-0000FF?style=for-the-badge&logoColor=white)](https://gravity.blue/)
+[![Blue Gravity Studios Site](https://img.shields.io/badge/Blue_Gravity_Studios-Site-64cde9?style=for-the-badge&logoColor=white)](https://gravity.blue/)
 
