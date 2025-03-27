@@ -11,6 +11,5 @@ The studio was founded by passionate gamers who are committed to creating innova
 🌐 [Game Development News](https://github.com/bluegravitystudios/game-dev-news/blob/main/README.md) - This repository features a curated list of gaming forums and news sources to keep you updated.  
 
 Visit our official website to learn more about our projects and contributions, and dive right into our repositories to start building your dream game!  
-  
-[![Blue Gravity Studios Site](https://img.shields.io/badge/Blue_Gravity_Studios-Site-64cde9?style=for-the-badge&logoColor=white)](https://gravity.blue/)
+
 
